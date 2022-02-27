@@ -23,4 +23,3 @@ Faculty of Medicine, UoP
 - Implement a web application to interact with the data
 - Implement a warning system. 
 - Display analytics and visualizations
-Test
