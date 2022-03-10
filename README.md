@@ -42,10 +42,10 @@ An online system to provide more accurate information on road accidents (both an
 <img src="docs\images\solution_architecture.png" width="500">
 
 ## Use Case diagram
-<img src="docs\images\usecase_diagram.png" width="500">
+<img src="docs\images\usecase_diagram.png" width="600">
 
 ## Workplan
-<img src="docs\images\workplan.png" width="500">
+<img src="docs\images\workplan.png" width="800">
 
 ## Future work
 
@@ -55,5 +55,7 @@ An online system to provide more accurate information on road accidents (both an
 
 ### Realtime Modeling
 - Users can analyze and predict on their own datasets
+
+
 
 
