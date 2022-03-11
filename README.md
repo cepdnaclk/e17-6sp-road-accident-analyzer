@@ -16,7 +16,7 @@ Faculty of Medicine, UoP
 #### Development Team
 - Pubudu Bandara (E/17/027) - [email](mailto:pubuducb@gmail.com), [GitHub](https://github.com/pubuducb)
 - Dhananjaya Morais (E/17/212) - [email](mailto:e17212@eng.pdn.ac.lk), [GitHub](https://github.com)
-- Ishara nawarathna (E/17/219) - [email](mailto:e17219@eng.pdn.ac.lk), [GitHub](https://github.com)
+- Ishara Nawarathna (E/17/219) - [email](mailto:e17219@eng.pdn.ac.lk), [GitHub](https://github.com)
 
 ---
 ## Introduction
