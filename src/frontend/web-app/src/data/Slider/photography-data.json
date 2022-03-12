@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "IMAGINE MORE",
+    "tagline": "IN THE HEART OF THE IMAGE",
+    "image": "slides/home-bg-12.jpg",
+    "buttons": []
+  },
+  {
+    "id": 2,
+    "title": "ROCK SOLID",
+    "tagline": "INNOVATIVE IN THE MOMENT",
+    "image": "slides/home-bg-13.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "VIEW GALLERY",
+        "link": "!#",
+        "type": "btn-dark btn-circle"
+      }
+    ]
+  }
+]

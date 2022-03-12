@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "EXPAND YOUR REACH",
+        "tagline": "Designing The Future",
+        "text": "We work to make better products and services through human-centred innovation.",
+        "image": "slides/home-bg-4.jpg",
+        "buttons": [
+            {
+                "id": 1,
+                "text": "WORK WITH US",
+                "link": "!#",
+                "type": "btn-color"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "DESIGN SPRINTS",
+        "tagline": "Innovation Strategy",
+        "image": "slides/home-bg-5.jpg",
+        "buttons": [
+            {
+                "id": 1,
+                "text": "ABOUT US",
+                "link": "!#",
+                "type": "btn-outline-white btn-rounded"
+            },
+            {
+                "id": 2,
+                "text": "VIEW PORTFOLIO",
+                "link": "!#",
+                "type": "btn-dark btn-rounded"
+            }
+        ]
+    }
+]

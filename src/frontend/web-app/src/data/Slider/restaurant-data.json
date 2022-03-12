@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "OUR RESTAURANT",
+    "tagline": "WELCOME TO",
+    "image": "background/parallax-bg-8.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "MAKE A RESERVATION",
+        "link": "!#",
+        "type": "btn-red btn-square"
+      }
+    ]
+  }
+]

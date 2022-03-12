@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "globe-alt",
+    "title": "MARKETING STRATEGIES",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.",
+    "classes": "blue-bg-icon fade-icon-blue"
+  },
+  {
+    "id": 2,
+    "icon": "light-bulb",
+    "title": "CREATIVE IDEAS",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.",
+    "classes": "pink-bg-icon fade-icon-pink"
+  },
+  {
+    "id": 3,
+    "icon": "rocket-alt-2",
+    "title": "TRAFFIC BOOSTER",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.",
+    "classes": "yellow-bg-icon fade-icon-yellow"
+  },
+  {
+    "id": 4,
+    "icon": "molecule",
+    "title": "SOCIAL CONNECT",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.",
+    "classes": "green-bg-icon fade-icon-green"
+  }
+]

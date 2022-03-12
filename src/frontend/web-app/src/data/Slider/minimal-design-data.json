@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "We Design & Build<br /> Digital Themes",
+    "image": "slides/home-bg-19.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "START A PROJECT",
+        "link": "!#",
+        "type": "btn-dark btn-circle"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "We'r an Independent<br /> Strategic Creative Agency",
+    "videoMp4": "video/startup.mp4",
+    "videoWeb": "video/startup.webm",
+    "videoImage": "video/startup.png",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "GET A QUOTE",
+        "link": "!#",
+        "type": "btn-outline-white btn-circle"
+      }
+    ]
+  }
+]

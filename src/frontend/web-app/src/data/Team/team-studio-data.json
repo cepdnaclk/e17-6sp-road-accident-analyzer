@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "James Brewer",
+    "role": "Digital Designer",
+    "image": "team/team-06.jpg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "twitter",
+        "link": "!#"
+      },
+      {
+        "id": 3,
+        "icon": "linkedin",
+        "link": "!#"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Amanda Stone",
+    "role": "Lead Developer",
+    "image": "team/team-07.jpg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "twitter",
+        "link": "!#"
+      },
+      {
+        "id": 3,
+        "icon": "linkedin",
+        "link": "!#"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Arthur Stewart",
+    "role": "Founder & CEO",
+    "image": "team/team-08.jpg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "twitter",
+        "link": "!#"
+      },
+      {
+        "id": 3,
+        "icon": "linkedin",
+        "link": "!#"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Eden Charles",
+    "role": "Art Director",
+    "image": "team/team-09.jpg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "twitter",
+        "link": "!#"
+      },
+      {
+        "id": 3,
+        "icon": "linkedin",
+        "link": "!#"
+      }
+    ]
+  }
+]

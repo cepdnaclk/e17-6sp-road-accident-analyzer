@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "PUSH YOURSELF",
+      "tagline": "Be an Inspiration",
+      "image": "slides/home-bg-24.jpg",
+      "buttons": [
+        {
+          "id": 1,
+          "text": "JOIN US NOW",
+          "link": "!#",
+          "type": "btn-white btn-square btn-animate"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "FIT FOR LIFE",
+      "tagline": "Get a jump on your day",
+      "image": "slides/home-bg-25.jpg",
+      "buttons": []
+    }
+  ]
+  

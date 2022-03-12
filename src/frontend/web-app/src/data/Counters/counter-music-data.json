@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "value": 5600,
+    "title": "Working hours"
+  },
+  {
+    "id": 2,
+    "value": 220,
+    "title": "Happy clients"
+  },
+  {
+    "id": 3,
+    "value": 108,
+    "title": "Awwwards"
+  },
+  {
+    "id": 4,
+    "value": 650,
+    "title": "Projects a year"
+  }
+]

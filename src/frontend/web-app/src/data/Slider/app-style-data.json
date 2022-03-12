@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "<strong>Showcase</strong> your App in <strong>easy way</strong>",
+      "text": "Started as early as internet we are the leading business analytics solutions agency serving the digital empire from the last two decades.",
+      "image": "slides/iPhone-01.png",
+      "buttons": [
+        {
+          "id": 1,
+          "text": "BUY TEMPLATE",
+          "link": "!#"
+        }
+      ]
+    }
+  ]
+  

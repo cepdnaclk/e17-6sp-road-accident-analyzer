@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "TRUST OUR EXPERIENCE",
+    "tagline": "BUILD YOUR NEXT HOLIDAY TRIP WITH US",
+    "image": "background/parallax-bg-13.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "BOOK NOW",
+        "link": "!#",
+        "type": "btn-color btn-circle"
+      }
+    ]
+  }
+]

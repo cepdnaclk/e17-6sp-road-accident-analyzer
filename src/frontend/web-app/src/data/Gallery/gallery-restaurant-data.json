@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "gallery/img-01.jpg",
+    "link": "gallery/img-01.jpg"
+  },
+  {
+    "id": 2,
+    "image": "gallery/img-02.jpg",
+    "link": "gallery/img-02.jpg"
+  },
+  {
+    "id": 3,
+    "image": "gallery/img-03.jpg",
+    "link": "gallery/img-03.jpg"
+  },
+  {
+    "id": 4,
+    "image": "gallery/img-04.jpg",
+    "link": "gallery/img-04.jpg"
+  },
+  {
+    "id": 5,
+    "image": "gallery/img-05.jpg",
+    "link": "gallery/img-05.jpg"
+  },
+  {
+    "id": 6,
+    "image": "gallery/img-06.jpg",
+    "link": "gallery/img-06.jpg"
+  }
+]

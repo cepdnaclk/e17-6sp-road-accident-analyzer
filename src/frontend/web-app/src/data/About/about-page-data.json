@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "WEB DESIGN",
+    "text": "Designing a good website that accommodates a lot of content is a tricky balancing act to pull off.",
+    "icon": "diamond"
+  },
+  {
+    "id": 2,
+    "title": "APP DEVELOPMENT",
+    "text": "We build mobile apps for the conference, integrating unique content and branding to create.",
+    "icon": "paint"
+  },
+  {
+    "id": 3,
+    "title": "DIGITAL MARKETING",
+    "text": "Google has made this important since 1998 when it launched. Content became, and still is king since websites.",
+    "icon": "rocket-alt-2"
+  },
+  {
+    "id": 4,
+    "title": "UI / UX FRIENDLY",
+    "text": "UX design refers to the term user experience design, while UI design stands for user interface design.",
+    "icon": "laptop-alt"
+  }
+]

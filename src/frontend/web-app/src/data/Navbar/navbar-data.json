@@ -1,0 +1,493 @@
+[
+    {
+        "id": 1,
+        "title": "Home",
+        "link": "/",
+        "colsTitle": "Home layout",
+        "itemsPerCol": 5,
+        "megaMenu": true,
+        "subMenu": [
+            {
+                "id": 1.1,
+                "title": "Creative Agency",
+                "link": "/creative-agency"
+            },
+            {
+                "id": 1.2,
+                "title": "Small Business",
+                "link": "/small-business"
+            },
+            {
+                "id": 1.3,
+                "title": "Corporate Business",
+                "link": "/corporate-business"
+            },
+            {
+                "id": 1.4,
+                "title": "Startup Business",
+                "link": "/startup-business"
+            },
+            {
+                "id": 1.5,
+                "title": "Minimal Design",
+                "link": "/minimal-design"
+            },
+            {
+                "id": 1.6,
+                "title": "Creative One Page",
+                "link": "/creative-onepage"
+            },
+            {
+                "id": 1.7,
+                "title": "Creative Portfolio",
+                "link": "/creative-portfolio"
+            },
+            {
+                "id": 1.8,
+                "title": "Personal Resume",
+                "link": "/personal-resume"
+            },
+            {
+                "id": 1.9,
+                "title": "SEO Agency",
+                "link": "/seo-agency"
+            },
+            {
+                "id": 1.10,
+                "title": "Digital Agency",
+                "link": "/digital-agency"
+            },
+            {
+                "id": 1.11,
+                "title": "Architecture",
+                "link": "/architecture"
+            },
+            {
+                "id": 1.12,
+                "title": "Restaurant",
+                "link": "/restaurant"
+            },
+            {
+                "id": 1.13,
+                "title": "Online Shop",
+                "link": "/online-shop"
+            },
+            {
+                "id": 1.14,
+                "title": "Photography",
+                "link": "/photography"
+            },
+            {
+                "id": 1.15,
+                "title": "Gym / Fitness",
+                "link": "/gym-fitness"
+            },
+            {
+                "id": 1.16,
+                "title": "App Style",
+                "link": "/app-style"
+            },
+            {
+                "id": 1.17,
+                "title": "Travel Agency",
+                "link": "/travel-agency"
+            },
+            {
+                "id": 1.18,
+                "title": "Construction",
+                "link": "/construction"   
+            },
+            {
+                "id": 1.19,
+                "title": "Music",
+                "link": "/music" 
+            },
+            {
+                "id": 1.20,
+                "title": "Weddings",
+                "link": "/weddings"  
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Pages",
+        "link": "/pages",
+        "megaMenu": false,
+        "subMenu": [
+            {
+                "id": 2.1,
+                "title": "About",
+                "link": "/about",
+                "subMenu": [
+                    {
+                        "id": 2.11,
+                        "title": "About Us",
+                        "link": "/about-us"
+                    },
+                    {
+                        "id": 2.12,
+                        "title": "About - Creative",
+                        "link": "/about-creative"
+                    }
+                ]
+            },
+            {
+                "id": 2.2,
+                "title": "Services",
+                "link": "/services",
+                "subMenu": [
+                    {
+                        "id": 2.21,
+                        "title": "Service Simple",
+                        "link": "/service-simple"
+                    },
+                    {
+                        "id": 2.22,
+                        "title": "Service Creative",
+                        "link": "/service-creative"
+                    }
+                ]
+            },
+            {
+                "id": 2.3,
+                "title": "Contact",
+                "link": "/contact",
+                "subMenu": [
+                    {
+                        "id": 2.31,
+                        "title": "Contact Simple",
+                        "link": "/contact-simple"
+                    },
+                    {
+                        "id": 2.32,
+                        "title": "Contact Creative",
+                        "link": "/contact-creative"
+                    }
+                ]
+            },
+            {
+                "id": 2.4,
+                "title": "404 Page",
+                "link": "/404-page"
+            },
+            {
+                "id": 2.5,
+                "title": "Coming Soon",
+                "link": "/coming-soon"
+            },
+            {
+                "id": 2.6,
+                "title": "FAQs",
+                "link": "/faqs"
+            },
+            {
+                "id": 2.7,
+                "title": "Terms & Conditions",
+                "link": "/term-condition"
+            },
+            {
+                "id": 2.8,
+                "title": "Privacy Policy",
+                "link": "/privacy"
+            },
+            {
+                "id": 2.9,
+                "title": "Careers",
+                "link": "/career"
+            },
+            {
+                "id": 2.10,
+                "title": "Login",
+                "link": "/login"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Blog",
+        "link": "/blog",
+        "megaMenu": false,
+        "subMenu": [
+            {
+                "id": 3.1,
+                "title": "Blog Standard",
+                "link": "/blog/top-10-fastest-cars-in-the-world?id=1"
+            },
+            {
+                "id": 3.2,
+                "title": "Blog Grid",
+                "link": "/blog-grid"
+            },
+            {
+                "id": 3.3,
+                "title": "Blog Sidebar",
+                "link": "/blog-sidebar"
+            },
+            {
+                "id": 3.4,
+                "title": "Blog Masonry",
+                "link": "/blog-masonry"
+            },
+            {
+                "id": 3.5,
+                "title": "Blog Carousel",
+                "link": "/blog-carousel"
+            },
+            {
+                "id": 3.6,
+                "title": "Blog Sidebar Right",
+                "link": "/blog-sidebar-right"
+            },
+            {
+                "id": 3.7,
+                "title": "Blog Sidebar Left",
+                "link": "/blog-sidebar-left"
+            }
+        ]  
+    },
+    {
+        "id": 4,
+        "title": "Portfolio",
+        "link": "/portfolio",
+        "megaMenu": false,
+        "subMenu": [
+            {
+                "id": 4.1,
+                "title": "Boxed",
+                "link": "/boxed",
+                "subMenu": [
+                    {
+                        "id": 4.11,
+                        "title": "2 Columns",
+                        "link": "/box-2-columns"
+                    },
+                    {
+                        "id": 4.12,
+                        "title": "3 Columns",
+                        "link": "/box-3-columns"
+                    },
+                    {
+                        "id": 4.13,
+                        "title": "4 Columns",
+                        "link": "/box-4-columns"
+                    }
+                ]
+            },
+            {
+                "id": 4.2,
+                "title": "Boxed - Space",
+                "link": "/boxed-space",
+                "subMenu": [
+                    {
+                        "id": 4.21,
+                        "title": "2 Columns",
+                        "link": "/box-space-2-columns"
+                    },
+                    {
+                        "id": 4.22,
+                        "title": "3 Columns",
+                        "link": "/box-space-3-columns"
+                    },
+                    {
+                        "id": 4.23,
+                        "title": "4 Columns",
+                        "link": "/box-space-4-columns"
+                    }
+                ]
+            },
+            {
+                "id": 4.3,
+                "title": "Wide",
+                "link": "/wide",
+                "subMenu": [
+                    {
+                        "id": 4.31,
+                        "title": "2 Columns",
+                        "link": "/wide-2-columns"
+                    },
+                    {
+                        "id": 4.32,
+                        "title": "3 Columns",
+                        "link": "/wide-3-columns"
+                    },
+                    {
+                        "id": 4.33,
+                        "title": "4 Columns",
+                        "link": "/wide-4-columns"
+                    }
+                ]
+            },
+            {
+                "id": 4.4,
+                "title": "Wide - Space",
+                "link": "/wide-space",
+                "subMenu": [
+                    {
+                        "id": 4.41,
+                        "title": "2 Columns",
+                        "link": "/wide-space-2-columns"
+                    },
+                    {
+                        "id": 4.42,
+                        "title": "3 Columns",
+                        "link": "/wide-space-3-columns"
+                    },
+                    {
+                        "id": 4.43,
+                        "title": "4 Columns",
+                        "link": "/wide-space-4-columns"
+                    }
+                ]
+            },
+            {
+                "id": 4.5,
+                "title": "Single Portfolio",
+                "link": "/single-portfolio"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Shops",
+        "link": "/shops",
+        "megaMenu": false,
+        "subMenu": [
+            {
+                "id": 5.1,
+                "title": "Shop Fullwidth",
+                "link": "/shop-fullwidth"
+            },
+            {
+                "id": 5.2,
+                "title": "Shop Standard",
+                "link": "/shop-standard"
+            },
+            {
+                "id": 5.3,
+                "title": "Shop Boxed",
+                "link": "/shop-boxed"
+            },
+            {
+                "id": 5.4,
+                "title": "Shop Masonry",
+                "link": "/shop-masonry"
+            },
+            {
+                "id": 5.5,
+                "title": "Single Product",
+                "link": "/shop-product"
+            },
+            {
+                "id": 5.6,
+                "title": "Shop Cart",
+                "link": "/shop-cart"
+            },
+            {
+                "id": 5.7,
+                "title": "Shop Checkout",
+                "link": "/shop-checkout"
+            }
+        ]  
+    },
+    {
+        "id": 6,
+        "title": "Elements",
+        "link": "/elements",
+        "colsTitle": "Elements",
+        "itemsPerCol": 6,
+        "megaMenu": true,
+        "subMenu": [
+            {
+                "id": 6.1,
+                "title": "Buttons",
+                "link": "/buttons"
+            },
+            {
+                "id": 6.2,
+                "title": "Typography",
+                "link": "/typography"
+            },
+            {
+                "id": 6.3,
+                "title": "Alerts",
+                "link": "/alerts"
+            },
+            {
+                "id": 6.4,
+                "title": "Pricing Tables",
+                "link": "/pricing-tables"
+            },
+            {
+                "id": 6.5,
+                "title": "Call To Actions",
+                "link": "/call-to-action"
+            },
+            {
+                "id": 6.6,
+                "title": "Parallax Sections",
+                "link": "/parallax-section"
+            },
+            {
+                "id": 6.7,
+                "title": "Tabs",
+                "link": "/tabs"
+            },
+            {
+                "id": 6.8,
+                "title": "Accordions",
+                "link": "/accordions"
+            },
+            {
+                "id": 6.9,
+                "title": "Sliders",
+                "link": "/sliders"
+            },
+            {
+                "id": 6.10,
+                "title": "Progress Bars",
+                "link": "/progress-bar"
+            },
+            {
+                "id": 6.11,
+                "title": "Contact Forms",
+                "link": "/contact-form"
+            },
+            {
+                "id": 6.12,
+                "title": "Google Maps",
+                "link": "/google-maps"
+            },
+            {
+                "id": 6.13,
+                "title": "Progress Bar Ring",
+                "link": "/progress-bar-ring"
+            },
+            {
+                "id": 6.14,
+                "title": "Theme Icons",
+                "link": "/theme-icons"
+            },
+            {
+                "id": 6.15,
+                "title": "Boxed Icons",
+                "link": "/boxed-icons"
+            },
+            {
+                "id": 6.16,
+                "title": "Grid Columns",
+                "link": "/grid-columns"
+            },
+            {
+                "id": 6.17,
+                "title": "Team Members",
+                "link": "/team-member"
+            },
+            {
+                "id": 6.18,
+                "title": "Countdowns",
+                "link": "/countdowns"   
+            }
+        ]
+    }
+]

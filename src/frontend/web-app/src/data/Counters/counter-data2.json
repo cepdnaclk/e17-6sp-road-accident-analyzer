@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "value": 5600,
+        "title": "Working Hours",
+        "icon": "clock-time"
+    },
+    {
+        "id": 2,
+        "value": 220,
+        "title": "Happy Clients",
+        "icon": "slightly-smile"
+    },
+    {
+        "id": 3,
+        "value": 108,
+        "title": "Awwwards",
+        "icon": "trophy"
+    },
+    {
+        "id": 4,
+        "value": 650,
+        "title": "Projects a Year",
+        "icon": "coffee-cup"
+    }
+]

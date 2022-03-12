@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "title": "Creative & Technology for Exceptional Brands",
+  "tagline": "Welcome to Scoda",
+  "tags": [
+    { "text": "Web Design" },
+    { "text": "Development" },
+    { "text": "Apps" },
+    { "text": "And" },
+    { "text": "Front End Development" }
+  ],
+  "image": "slides/home-bg-28.jpg"
+}
