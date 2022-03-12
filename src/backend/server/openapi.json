@@ -1,0 +1,108 @@
+{
+    "openapi": "3.0.2",
+    "info": {
+        "title": "FastAPI",
+        "version": "0.1.0"
+    },
+    "paths": {
+        "/": {
+            "get": {
+                "summary": "Read Root",
+                "operationId": "read_root__get",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "title": "Response Read Root  Get",
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/EntryModel"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "EntryModel": {
+                "title": "EntryModel",
+                "required": [
+                    "severity",
+                    "latitude",
+                    "longitude",
+                    "side",
+                    "city",
+                    "county",
+                    "state",
+                    "humidity",
+                    "temporature",
+                    "pressure",
+                    "visibility",
+                    "wind_dir",
+                    "weather_cond"
+                ],
+                "type": "object",
+                "properties": {
+                    "severity": {
+                        "title": "Severity",
+                        "type": "integer"
+                    },
+                    "latitude": {
+                        "title": "Latitude",
+                        "type": "number"
+                    },
+                    "longitude": {
+                        "title": "Longitude",
+                        "type": "number"
+                    },
+                    "side": {
+                        "title": "Side",
+                        "type": "string"
+                    },
+                    "city": {
+                        "title": "City",
+                        "type": "string"
+                    },
+                    "county": {
+                        "title": "County",
+                        "type": "string"
+                    },
+                    "state": {
+                        "title": "State",
+                        "type": "string"
+                    },
+                    "humidity": {
+                        "title": "Humidity",
+                        "type": "number"
+                    },
+                    "temporature": {
+                        "title": "Temporature",
+                        "type": "number"
+                    },
+                    "pressure": {
+                        "title": "Pressure",
+                        "type": "number"
+                    },
+                    "visibility": {
+                        "title": "Visibility",
+                        "type": "number"
+                    },
+                    "wind_dir": {
+                        "title": "Wind Dir",
+                        "type": "string"
+                    },
+                    "weather_cond": {
+                        "title": "Weather Cond",
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}
