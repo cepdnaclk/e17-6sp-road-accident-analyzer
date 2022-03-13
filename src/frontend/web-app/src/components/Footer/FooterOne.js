@@ -1,5 +1,5 @@
 import React from "react";
-import logoFooter from "../../assets/images/logo-footer.png";
+import logoFooter from "../../assets/images/group12.png";
 import FooterCopyright from "./FooterCopyright";
 
 const FooterOne = () => (
@@ -20,34 +20,18 @@ const FooterOne = () => (
                   </a>
                 </div>
                 <p>
-                  We are a fully in-house digital agency focusing on branding,
-                  marketing, web design and development with clients ranging
-                  from start-ups, Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Sed varius quam ut magna ultricies
-                  pellentesque.
+                  A team with the full intention of reducing the 
+                  number of road accidents which are happening day to day life.
+                  We saw this as a huge problem and came up with a solution to
+                  resolve this issue by using modern technologies such as machine 
+                  learning. Please send us your thoughts and we will be looking forward
+                  to improve our system, based on our users' suggetions.
                 </p>
               </div>
             </div>
             <div className="col-sm-6 col-md-2">
               <div className="widget widget-links">
-                <h5 className="widget-title">Work With Us</h5>
-                <ul>
-                  <li>
-                    <a href="#!">Themeforest</a>
-                  </li>
-                  <li>
-                    <a href="#!">Audio Jungle</a>
-                  </li>
-                  <li>
-                    <a href="#!">Code Canyon</a>
-                  </li>
-                  <li>
-                    <a href="#!">Video Hive</a>
-                  </li>
-                  <li>
-                    <a href="#!">Envato Market</a>
-                  </li>
-                </ul>
+                
               </div>
             </div>
             <div className="col-sm-6 col-md-2">
@@ -66,9 +50,6 @@ const FooterOne = () => (
                   <li>
                     <a href={process.env.PUBLIC_URL}>Terms &amp; Conditions</a>
                   </li>
-                  <li>
-                    <a href={process.env.PUBLIC_URL}>Careers</a>
-                  </li>
                 </ul>
               </div>
             </div>
@@ -79,22 +60,18 @@ const FooterOne = () => (
                   <li>
                     <i className="icofont icofont-google-map"></i>
                     <a href={process.env.PUBLIC_URL}>
-                      Park Lane Llandrindod Wells, LD7 9QW
+                      Peradeniya, Kandy , Sri Lanka.
                     </a>
                   </li>
                   <li>
                     <i className="icofont icofont-iphone"></i>
-                    <a href="tel:441632960290">+44 1632 960290</a>
+                    <a href="tel:441632960290">+94 70 157 3862</a>
                   </li>
                   <li>
                     <i className="icofont icofont-mail"></i>
                     <a href="mailto:helloscoda@gmail.com">
-                      helloscoda@gmail.com
+                      roadanalyzer-srilanka@gmail.com
                     </a>
-                  </li>
-                  <li>
-                    <i className="icofont icofont-globe"></i>
-                    <a href={process.env.PUBLIC_URL}>www.envato.com</a>
                   </li>
                 </ul>
               </div>
