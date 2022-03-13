@@ -61,13 +61,7 @@ const Portfolio = forwardRef(
         <div className={"container" + (layout === "wide" ? "-fluid" : "")}>
           <div className="row">
             <div className={"container" + (layout === "wide" ? "-fluid" : "") + " text-center"}>
-              {filter === "true" ? (
-                <PortfolioFilter
-                  categories={categories}
-                  handleClick={filterElements}
-                />
-              ) : null}
-
+              
               <div
                 id="portfolio-grid"
                 ref={element}
