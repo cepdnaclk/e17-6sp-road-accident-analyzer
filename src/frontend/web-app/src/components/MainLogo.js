@@ -7,8 +7,8 @@ const MainLogo = ({ collapse, showMenu }) => {
     <div className="navbar-header">
       <div className="logo">
         <a href={process.env.PUBLIC_URL}>
-          <img className="logo logo-display" src={logoWhite} alt="" />
-          <img className="logo logo-scrolled" src={logoBlack} alt="" />
+          {/* <img className="logo logo-display" src={logoWhite} alt="" />
+          <img className="logo logo-scrolled" src={logoBlack} alt="" /> */}
         </a>
       </div>
     </div>
