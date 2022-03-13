@@ -33,8 +33,7 @@ const CorporateBusiness = () => {
         classAppend="pt-0"
       />
       <CounterOne type="wide" />
-      <TabsIconSection title="What We Offer" tagline="We Turn Heads" />
-      <TestimonialsOne title="TESTIMONIALS" tagline="Happy clients" />
+      <TabsIconSection title="Main Features" tagline="How the analysis happens.." />
       <BlogSlider />
       <FooterOne />
     </Loader>
