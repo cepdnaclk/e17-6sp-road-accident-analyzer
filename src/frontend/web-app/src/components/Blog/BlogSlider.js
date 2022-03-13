@@ -42,7 +42,7 @@ const BlogSlider = () => {
       </div>
       <div className="container">
         <div className="row">
-          <HeadingSection title="Our Blogs" tagline="Latest News" />
+          <HeadingSection title="Our Posts" tagline="Reads that might be helpful" />
         </div>
         <div className="row mt-50">
           <div className="col-md-12 remove-padding">
