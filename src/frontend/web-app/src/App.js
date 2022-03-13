@@ -2,27 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 // Home pages
-import CreativeAgency from "./pages/home/CreativeAgency";
-import SmallBusiness from "./pages/home/SmallBusiness";
 import CorporateBusiness from "./pages/home/CorporateBusiness";
-import StartupBusiness from "./pages/home/StartupBusiness";
-import MinimalDesign from "./pages/home/MinimalDesign";
-import CreativeOnePage from "./pages/home/CreativeOnePage";
-import CreativePortfolio from "./pages/home/CreativePortfolio";
-import PersonalResume from "./pages/home/PersonalResume";
-import SEOAgency from "./pages/home/SEOAgency";
-import DigitalAgency from "./pages/home/DigitalAgency";
-import Architecture from "./pages/home/Architecture";
-import Restaurant from "./pages/home/Restaurant";
-import OnlineShop from "./pages/home/OnlineShop";
-import Photography from "./pages/home/Photography";
-import GymFitness from "./pages/home/GymFitness";
-import AppStyle from "./pages/home/AppStyle";
-import TravelAgency from "./pages/home/TravelAgency";
-import Construction from "./pages/home/Construction";
-import Music from "./pages/home/Music";
-import Weddings from "./pages/home/Weddings";
-import DesignStudio from "./pages/home/DesignStudio";
 
 // Pages
 import AboutUs from "./pages/about/AboutUs";
@@ -100,111 +80,12 @@ function App() {
       <ScrollToTop>
         <Switch>
           <Route exact path={`${process.env.PUBLIC_URL}/`} component={CorporateBusiness} />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/creative-agency`}
-            component={CreativeAgency}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/small-business`}
-            component={SmallBusiness}
-          />
+          
           <Route
             exact
             path={`${process.env.PUBLIC_URL}/corporate-business`}
             component={CorporateBusiness}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/startup-business`}
-            component={StartupBusiness}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/minimal-design`}
-            component={MinimalDesign}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/creative-onepage`}
-            component={CreativeOnePage}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/creative-portfolio`}
-            component={CreativePortfolio}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/personal-resume`}
-            component={PersonalResume}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/seo-agency`}
-            component={SEOAgency}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/digital-agency`}
-            component={DigitalAgency}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/architecture`}
-            component={Architecture}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/restaurant`}
-            component={Restaurant}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/online-shop`}
-            component={OnlineShop}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/photography`}
-            component={Photography}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/gym-fitness`}
-            component={GymFitness}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/app-style`}
-            component={AppStyle}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/travel-agency`}
-            component={TravelAgency}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/construction`}
-            component={Construction}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/music`}
-            component={Music}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/weddings`}
-            component={Weddings}
-          />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/design-studio`}
-            component={DesignStudio}
-          />
+          />          
           <Route
             exact
             path={`${process.env.PUBLIC_URL}/about-us`}
