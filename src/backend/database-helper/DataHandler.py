@@ -1,7 +1,6 @@
 import csv
 import motor.motor_asyncio
 import asyncio
-from EntrySchema import EntryModel
 
 DB_URL = "mongodb+srv://pubudu:ClhiKrpQPXLJ3vFS@cluster0.pb6tv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
@@ -40,7 +39,6 @@ def generate_entry(line: list):
         'wind_dir': line[11],
         'weather_cond': line[12]
     }
-    # entry = EntryModel(**entry_data)
     return entry_data
 
 
