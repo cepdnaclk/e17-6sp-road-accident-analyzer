@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "beach",
+    "title": "Diverse Destinations",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+  },
+  {
+    "id": 2,
+    "icon": "hill-side",
+    "title": "Mountain Holiday",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+  },
+  {
+    "id": 3,
+    "icon": "island",
+    "title": "Beautiful Places",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+  },
+  {
+    "id": 4,
+    "icon": "travelling",
+    "title": "Passionate Travel",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+  }
+]

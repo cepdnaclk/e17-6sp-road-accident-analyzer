@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "DESIGN & DEVELOPMENT",
+      "tagline": "User Experience",
+      "text": "The state-of-the-art development skills and stunning design.",
+      "image": "slides/home-bg-26.jpg",
+      "buttons": [
+        {
+          "id": 1,
+          "text": "KNOW MORE",
+          "link": "!#",
+          "type": "btn-circle btn-color"
+        },
+        {
+            "id": 2,
+            "text": "CONTACT US",
+            "link": "!#",
+            "type":"btn-circle btn-outline-white"
+          }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "IDENTITY DESIGN",
+      "tagline": "Brand Strategy",
+      "image": "slides/home-bg-27.jpg",
+      "buttons": [
+        {
+          "id": 1,
+          "text": "LEARN MORE",
+          "link": "!#",
+          "type":"btn-circle btn-color"
+        },
+        {
+          "id": 2,
+          "text": "OUR SERVICES",
+          "link": "!#",
+          "type":"btn-circle btn-outline-white"
+        }
+      ]
+    }
+  ]
+  

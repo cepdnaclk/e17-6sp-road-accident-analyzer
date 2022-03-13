@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "UX and UI Design",
+    "text": "We’ve all overheard conversations, walking down hip streets of the world’s tech capitals, discussions about the great ‘UX’ of a product, or the poor ‘UI’ of a website."
+  },
+  {
+    "id": 2,
+    "title": "Development",
+    "text": "Web development refers to building, creating, and an maintaining websites. It includes aspects such as web design, web publishing, web programming, and database management. While the terms 'web developer' and 'web designer' are often used synonymously, they do not mean the same thing."
+  },
+  {
+    "id": 3,
+    "title": "Motion Graphics",
+    "text": "Motion graphics are pieces of animation or digital footage which create the illusion of motion or rotation, and are usually combined with audio for use in multimedia projects."
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing",
+    "text": "Digital marketing is the marketing of products or services using digital technologies, mainly on the Internet, but also including mobile phones, display advertising, and any other digital medium."
+  }
+]

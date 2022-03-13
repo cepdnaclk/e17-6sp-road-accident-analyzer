@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "title": "Digital Agency",
+  "tagline": "Best Digital Service Ever",
+  "image": "slides/home-bg-29.jpg",
+  "bg": "true",
+  "buttons": [
+    {
+      "id": 1,
+      "text": "OUR PORTFOLIO",
+      "link": "!#",
+      "type": "btn-white btn-circle"
+    }
+  ]
+}

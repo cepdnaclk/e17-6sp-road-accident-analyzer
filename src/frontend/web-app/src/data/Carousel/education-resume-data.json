@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "title": "Bechelors of computer sciences",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue, sapien quis bibendum luctus, justo nunc tincidunt quam, non efficitur augue nulla eu leo. Aliquam nec metus mi.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "calendar",
+        "title": "2006-2008"
+      },
+      {
+        "id": 2,
+        "icon": "envato",
+        "title": "University of Australia"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Masters's degree of ms",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue, sapien quis bibendum luctus, justo nunc tincidunt quam, non efficitur augue nulla eu leo. Aliquam nec metus mi.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "calendar",
+        "title": "2010-2014"
+      },
+      {
+        "id": 2,
+        "icon": "envato",
+        "title": "University of Australia"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Bechelors of computer sciences",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue, sapien quis bibendum luctus, justo nunc tincidunt quam, non efficitur augue nulla eu leo. Aliquam nec metus mi.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "calendar",
+        "title": "2006-2008"
+      },
+      {
+        "id": 2,
+        "icon": "envato",
+        "title": "University of Australia"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Masters's degree of ms",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue, sapien quis bibendum luctus, justo nunc tincidunt quam, non efficitur augue nulla eu leo. Aliquam nec metus mi.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "calendar",
+        "title": "2010-2014"
+      },
+      {
+        "id": 2,
+        "icon": "envato",
+        "title": "University of Australia"
+      }
+    ]
+  }
+]

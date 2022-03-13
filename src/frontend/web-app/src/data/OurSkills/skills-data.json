@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "UI / UX Design",
+    "percentage": 80
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "percentage": 55
+  },
+  {
+    "id": 3,
+    "title": "jQuery",
+    "percentage": 75
+  },
+  {
+    "id": 4,
+    "title": "Branding",
+    "percentage": 99,
+    "color": "#d9534f"
+  },
+  {
+    "id": 5,
+    "title": "App Development",
+    "percentage": 48
+  },
+  {
+    "id": 6,
+    "title": "UI / UX Design",
+    "percentage": 80
+  },
+  {
+    "id": 7,
+    "title": "Web Development",
+    "percentage": 55
+  },
+  {
+    "id": 8,
+    "title": "jQuery",
+    "percentage": 75,
+    "color": "#5cb85c"
+  },
+  {
+    "id": 9,
+    "title": "Branding",
+    "percentage": 99,
+    "color": "#f0ad4e"
+  },
+  {
+    "id": 10,
+    "title": "App Development",
+    "percentage": 48,
+    "color": "#2d2d2d"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "OFFICE BUILDING",
+    "image": "gallery/img-19.jpg"
+  },
+  {
+    "id": 2,
+    "title": "SHOPPING MALL",
+    "image": "gallery/img-20.jpg"
+  },
+  {
+    "id": 3,
+    "title": "HOSPITAL BUILDING",
+    "image": "gallery/img-21.jpg"
+  },
+  {
+    "id": 4,
+    "title": "GARDEN HOUSE",
+    "image": "gallery/img-22.jpg"
+  },
+  {
+    "id": 5,
+    "title": "PYRAMID DESIGN",
+    "image": "gallery/img-23.jpg"
+  },
+  {
+    "id": 6,
+    "title": "SWIMMING POOL",
+    "image": "gallery/img-24.jpg"
+  }
+]

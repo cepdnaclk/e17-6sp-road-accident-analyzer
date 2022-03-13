@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "ui-theme",
+    "title": "Branding",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+  },
+  {
+    "id": 2,
+    "icon": "responsive",
+    "title": "Design & Development",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+  },
+  {
+    "id": 3,
+    "icon": "zigzag",
+    "title": "Marketing",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+  },
+  {
+    "id": 4,
+    "icon": "contrast",
+    "title": "Full Support",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+  }
+]

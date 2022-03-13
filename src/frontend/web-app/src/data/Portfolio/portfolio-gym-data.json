@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Yoga for Parents",
+    "category": "12 class collection",
+    "image": "portfolio/grid/9.jpg",
+    "link": "portfolio/grid/9.jpg",
+    "groups": ["all", "print", "branding"]
+  },
+  {
+    "id": 2,
+    "title": "Yoga for Climbers",
+    "category": "18 class collection",
+    "image": "portfolio/grid/10.jpg",
+    "link": "portfolio/grid/9.jpg",
+    "groups": ["all", "branding", "web"]
+  },
+  {
+    "id": 3,
+    "title": "Live a Life of Joy",
+    "category": "10 class collection",
+    "image": "portfolio/grid/11.jpg",
+    "link": "portfolio/grid/9.jpg",
+    "groups": ["all", "branding"]
+  }
+]

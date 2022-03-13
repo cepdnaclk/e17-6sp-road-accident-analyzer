@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "portfolio/grid/21.jpg",
+    "title": "Why Good Designers Are Like Crocodiles",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pretium efficitur ex, vitae euismod ligula."
+  },
+  {
+    "id": 2,
+    "image": "portfolio/grid/22.jpg",
+    "title": "How Metallics Became Basic",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pretium efficitur ex, vitae euismod ligula."
+  },
+  {
+    "id": 3,
+    "image": "portfolio/grid/23.jpg",
+    "title": "Designing The Envato Design Framework",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pretium efficitur ex, vitae euismod ligula."
+  },
+  {
+    "id": 4,
+    "image": "portfolio/grid/24.jpg",
+    "title": "The Rules of Designing UX for Millennials",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pretium efficitur ex, vitae euismod ligula."
+  }
+]

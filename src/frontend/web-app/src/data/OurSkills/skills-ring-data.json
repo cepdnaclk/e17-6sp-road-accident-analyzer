@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "HTML5",
+    "percentage": 80
+  },
+  {
+    "id": 2,
+    "title": "CSS3",
+    "percentage": 74
+  },
+  {
+    "id": 3,
+    "title": "jQuery",
+    "percentage": 45
+  },
+  {
+    "id": 4,
+    "title": "Apps",
+    "percentage": 60
+  }
+]

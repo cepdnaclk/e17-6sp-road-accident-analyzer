@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "First Accordion",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt maiores placeat obcaecati, beatae. Facilis dolore ipsam facere perferendis deserunt commodi blanditiis nisi accusamus omnis, animi vel tenetur cumque, sed veritatis?"
+  },
+  {
+    "id": 2,
+    "title": "Second Accordion",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt maiores placeat obcaecati, beatae. Facilis dolore ipsam facere perferendis deserunt commodi blanditiis nisi accusamus omnis, animi vel tenetur cumque, sed veritatis?"
+  },
+  {
+    "id": 3,
+    "title": "Third Accordion",
+    "text": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch."
+  },
+  {
+    "id": 4,
+    "title": "Fourth Accordion",
+    "text": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch."
+  }
+]

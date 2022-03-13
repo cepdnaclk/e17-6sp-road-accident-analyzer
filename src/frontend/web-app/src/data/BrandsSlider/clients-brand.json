@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "image": "clients/1.png",
+    "name": "client-1"
+  },
+  {
+    "id": 2,
+    "image": "clients/2.png",
+    "name": "client2"
+  },
+  {
+    "id": 3,
+    "image": "clients/3.png",
+    "name": "client-3"
+  },
+  {
+    "id": 4,
+    "image": "clients/4.png",
+    "name": "client-4"
+  },
+  {
+    "id": 5,
+    "image": "clients/5.png",
+    "name": "client-5"
+  },
+  {
+    "id": 6,
+    "image": "clients/6.png",
+    "name": "client-6"
+  },
+  {
+    "id": 7,
+    "image": "clients/7.png",
+    "name": "client-7"
+  },
+  {
+    "id": 8,
+    "image": "clients/8.png",
+    "name": "client-8"
+  },
+  {
+    "id": 9,
+    "image": "clients/9.png",
+    "name": "client-9"
+  },
+  {
+    "id": 10,
+    "image": "clients/10.png",
+    "name": "client-10"
+  }
+]

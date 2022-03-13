@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "WE ARE CONSTRUCTION",
+    "tagline": "THIS YEAR WE TOOK MORE COMPLEX CONSTRUCTIONS THAN EVER BEFORE…",
+    "image": "slides/home-bg-20.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "READ MORE",
+        "link": "!#",
+        "type": "btn-white btn-square"
+      },
+      {
+        "id": 2,
+        "text": "PURCHASE NOW",
+        "link": "!#",
+        "type": "btn-yellow btn-square"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "BUILDING IS OUR PASSION.",
+    "tagline": "SEE HOW A 10-STORIES TOWER’S BEING BUILT, IN A TIME-LAPSE!",
+    "image": "slides/home-bg-21.jpg",
+    "buttons": []
+  }
+]
