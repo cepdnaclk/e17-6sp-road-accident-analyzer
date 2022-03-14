@@ -41,6 +41,19 @@ An online system to provide more accurate information on road accidents (both an
 ## Solution Architecture
 <img src="docs\images\solution_architecture.png" width="500">
 
+## Technologies used 
+- Motor: Asynchronous Python driver for MongoDB
+- FatsAPI: Web framework for developing RESTful APIs in Python
+- MongoDB Atlas: Cloud database service
+- Asyncio: Library to write concurrent code, often a perfect fit for IO-bound and high-level structured network code
+- React: JS library for building UIs
+- Pandas: Data analysis and manipulation tool
+- TensorFlow: Software library for ML and AI
+- Keras: Software library that provides a Python interface for ANNs
+
+
+<img src="docs\images\Items.png" width="600">
+
 ## Use Case diagram
 <img src="docs\images\usecase_diagram.png" width="600">
 
