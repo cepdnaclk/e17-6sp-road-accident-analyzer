@@ -57,7 +57,7 @@ An online system to provide more accurate information on road accidents (both an
 <img src="docs\images\solution_architecture.png" width="500">
 
 ## High Level System Organization
-<img src="docs\images\Highlevel.png" width="500">
+<img src="docs\images\highlevel.png" width="500">
 
 ## Data Flow of the System
 <img src="docs\images\dataflow.png" width="500">
