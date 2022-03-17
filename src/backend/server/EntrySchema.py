@@ -15,3 +15,8 @@ class EntryModel(BaseModel):
     visibility: float
     wind_dir: str
     weather_cond: str
+
+class WeatherCondModel(BaseModel):
+    latitude: float
+    longitude: float
+    weather_cond: str
