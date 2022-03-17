@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Visualizations",
+    "text": "Use visualiztions to discover hidden factors of road accidents and use the map to discover most vulnerable places for accidents.",
+    "icon": "light-bulb"
+  },
+  {
+    "id": 2,
+    "title": "Predictions",
+    "text": "Use high-accuracy machine learning algorithms built into our system to get predictions.",
+    "icon": "lightning-ray"
+  },
+  {
+    "id": 3,
+    "title": "Major Facts",
+    "text": "Read some of the major facts towards road accidents and try to avoid them.",
+    "icon": "gears"
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "title": "Monday",
+    "services": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Eric Smith"
+      },
+      {
+        "id": 2,
+        "title": "Running",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Joseph Ryan"
+      },
+      {
+        "id": 3,
+        "title": "Gym",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Will Hardy"
+      },
+      {
+        "id": 4,
+        "title": "Free Hand",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Tom Harry"
+      },
+      {
+        "id": 5,
+        "title": "Weight Lifting",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Sarah Adams"
+      },
+      {
+        "id": 6,
+        "title": "Fitness",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Jack Smith"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tuesday",
+    "services": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "hours": "11.00 am - 13.00 pm",
+        "trainer": "Eric Smith"
+      },
+      {
+        "id": 2,
+        "title": "Running",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Joseph Ryan"
+      },
+      {
+        "id": 3,
+        "title": "Gym",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Will Hardy"
+      },
+      {
+        "id": 4,
+        "title": "Free Hand",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Tom Harry"
+      },
+      {
+        "id": 5,
+        "title": "Weight Lifting",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Sarah Adams"
+      },
+      {
+        "id": 6,
+        "title": "Fitness",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Jack Smith"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Wednesday",
+    "services": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "hours": "12.00 am - 14.00 pm",
+        "trainer": "Eric Smith"
+      },
+      {
+        "id": 2,
+        "title": "Running",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Joseph Ryan"
+      },
+      {
+        "id": 3,
+        "title": "Gym",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Will Hardy"
+      },
+      {
+        "id": 4,
+        "title": "Free Hand",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Tom Harry"
+      },
+      {
+        "id": 5,
+        "title": "Weight Lifting",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Sarah Adams"
+      },
+      {
+        "id": 6,
+        "title": "Fitness",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Jack Smith"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Thursday",
+    "services": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "hours": "13.00 am - 15.00 pm",
+        "trainer": "Eric Smith"
+      },
+      {
+        "id": 2,
+        "title": "Running",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Joseph Ryan"
+      },
+      {
+        "id": 3,
+        "title": "Gym",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Will Hardy"
+      },
+      {
+        "id": 4,
+        "title": "Free Hand",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Tom Harry"
+      },
+      {
+        "id": 5,
+        "title": "Weight Lifting",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Sarah Adams"
+      },
+      {
+        "id": 6,
+        "title": "Fitness",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Jack Smith"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Friday",
+    "services": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "hours": "14.00 am - 16.00 pm",
+        "trainer": "Eric Smith"
+      },
+      {
+        "id": 2,
+        "title": "Running",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Joseph Ryan"
+      },
+      {
+        "id": 3,
+        "title": "Gym",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Will Hardy"
+      },
+      {
+        "id": 4,
+        "title": "Free Hand",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Tom Harry"
+      },
+      {
+        "id": 5,
+        "title": "Weight Lifting",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Sarah Adams"
+      },
+      {
+        "id": 6,
+        "title": "Fitness",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Jack Smith"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Saturday",
+    "services": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "hours": "15.00 am - 17.00 pm",
+        "trainer": "Eric Smith"
+      },
+      {
+        "id": 2,
+        "title": "Running",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Joseph Ryan"
+      },
+      {
+        "id": 3,
+        "title": "Gym",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Will Hardy"
+      },
+      {
+        "id": 4,
+        "title": "Free Hand",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Tom Harry"
+      },
+      {
+        "id": 5,
+        "title": "Weight Lifting",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Sarah Adams"
+      },
+      {
+        "id": 6,
+        "title": "Fitness",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Jack Smith"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sunday",
+    "services": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "hours": "16.00 am - 18.00 pm",
+        "trainer": "Eric Smith"
+      },
+      {
+        "id": 2,
+        "title": "Running",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Joseph Ryan"
+      },
+      {
+        "id": 3,
+        "title": "Gym",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Will Hardy"
+      },
+      {
+        "id": 4,
+        "title": "Free Hand",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Tom Harry"
+      },
+      {
+        "id": 5,
+        "title": "Weight Lifting",
+        "hours": "10.00 am - 12.00 pm",
+        "trainer": "Sarah Adams"
+      },
+      {
+        "id": 6,
+        "title": "Fitness",
+        "hours": "9.00 am - 12.00 pm",
+        "trainer": "Jack Smith"
+      }
+    ]
+  }
+]

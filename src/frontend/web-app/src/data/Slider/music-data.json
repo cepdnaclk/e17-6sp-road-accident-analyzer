@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Face The Music",
+    "tagline": "Walk softly and carry a big trombone",
+    "image": "slides/home-bg-22.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "PURCHASE NOW",
+        "link": "!#",
+        "type": "btn-white btn-square"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Rock Off and Rave on",
+    "tagline": "Gone Chopin … Bach in five",
+    "image": "slides/home-bg-23.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "VIEW ALBUMS",
+        "link": "!#",
+        "type": "btn-color btn-square"
+      }
+    ]
+  }
+]

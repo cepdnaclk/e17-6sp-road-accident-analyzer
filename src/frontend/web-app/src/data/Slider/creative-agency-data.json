@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "FOR WEB & MOBILE",
+    "tagline": "Digital Theme",
+    "text": "We develop products and services for ecommerce, insurance <br /> and a handful of other key industries",
+    "image": "slides/home-bg-1.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "START A PROJECT",
+        "link": "!#",
+        "type": "btn-white btn-rounded"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "EXPERIENCE DESIGN AGENCY",
+    "tagline": "Visualizing Innovation",
+    "image": "slides/home-bg-2.jpg",
+    "bg": "true",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "LEARN MORE",
+        "link": "!#",
+        "type": "btn-dark btn-rounded" 
+      },
+      {
+        "id": 2,
+        "text": "CONTACT US",
+        "link": "!#",
+        "type": "btn-outline-white btn-rounded"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "BUSINESS CONSULTING",
+    "tagline": "Scoda Creative Agency",
+    "text": "A digital agency focused on UX / UI and strategic development.",
+    "image": "slides/home-bg-3.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "SEE OUR WORK",
+        "link": "!#",
+        "type": "btn-color btn-rounded"
+      }
+    ]
+  }
+]

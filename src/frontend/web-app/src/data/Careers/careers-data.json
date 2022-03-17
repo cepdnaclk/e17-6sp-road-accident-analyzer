@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "position": "Analyst Team Lead",
+    "type": "Part time",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "id": 2,
+    "position": "Data Analytics Specialist - Customer Insights",
+    "type": "Full time",
+    "location": "New York, USA"
+  },
+  {
+    "id": 3,
+    "position": "Senior UI/UX Engineer",
+    "type": "Full time",
+    "location": "London, United Kingdom"
+  },
+  {
+    "id": 4,
+    "position": "Web Developer",
+    "type": "Part time",
+    "location": "Sydney, Australia"
+  }
+]

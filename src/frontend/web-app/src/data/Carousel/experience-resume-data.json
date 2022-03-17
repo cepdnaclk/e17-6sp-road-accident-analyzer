@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "title": "Front-end developer",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue, sapien quis bibendum luctus, justo nunc tincidunt quam, non efficitur augue nulla eu leo. Aliquam nec metus mi.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "calendar",
+        "title": "2010-2013"
+      },
+      {
+        "id": 2,
+        "icon": "envato",
+        "title": "Themeforest"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Sound editor",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue, sapien quis bibendum luctus, justo nunc tincidunt quam, non efficitur augue nulla eu leo. Aliquam nec metus mi.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "calendar",
+        "title": "2010-2013"
+      },
+      {
+        "id": 2,
+        "icon": "envato",
+        "title": "Audio Jungle"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "2D Animator",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue, sapien quis bibendum luctus, justo nunc tincidunt quam, non efficitur augue nulla eu leo. Aliquam nec metus mi.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "calendar",
+        "title": "2014-2017"
+      },
+      {
+        "id": 2,
+        "icon": "envato",
+        "title": "Videohive"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Plugin developer",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue, sapien quis bibendum luctus, justo nunc tincidunt quam, non efficitur augue nulla eu leo. Aliquam nec metus mi.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "calendar",
+        "title": "2014-2017"
+      },
+      {
+        "id": 2,
+        "icon": "envato",
+        "title": "Codecanyon"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "icon": "multimedia",
+    "title": "Visualizations",
+    "text": "Our system provides various types of visualizations of accident data depending on the large dataset we use. Also, danger zones(places that are more valunerable to accidents) are shown on the web map. This helps in various types of accident preventing techniques. There are some visualizations which gives direct facts that causes accidents."
+  },
+  {
+    "id": 2,
+    "icon": "brainstorming",
+    "title": "Predictions",
+    "text": "Our system can predict various types of parameters using the advanced machine learning models, we have integrated to our system. These models are desgined with various major factors in mind and has a reasonable accuracy of predicting."
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "icon": "paper-plane",
+    "title": "STARTED",
+    "currency": "$",
+    "price": "9.99",
+    "textButton": "PURCHASE NOW",
+    "featured": "false",
+    "features": [
+      {
+        "id": 1,
+        "title": "512 GB Ram"
+      },
+      {
+        "id": 2,
+        "title": "50 GB Disk"
+      },
+      {
+        "id": 3,
+        "title": "1 User"
+      },
+      {
+        "id": 4,
+        "title": "4TB Bandwidth"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "icon": "light-bulb",
+    "title": "BASIC",
+    "currency": "$",
+    "price": "19.99",
+    "textButton": "PURCHASE NOW",
+    "featured": "false",
+    "features": [
+      {
+        "id": 1,
+        "title": "512 GB Ram"
+      },
+      {
+        "id": 2,
+        "title": "80 GB Disk"
+      },
+      {
+        "id": 3,
+        "title": "2 User"
+      },
+      {
+        "id": 4,
+        "title": "4TB Bandwidth"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "pen-alt-3",
+    "title": "STANDARD",
+    "currency": "$",
+    "price": "39.99",
+    "textButton": "PURCHASE NOW",
+    "featured": "true",
+    "features": [
+      {
+        "id": 1,
+        "title": "768 GB Ram"
+      },
+      {
+        "id": 2,
+        "title": "80 GB Disk"
+      },
+      {
+        "id": 3,
+        "title": "3 User"
+      },
+      {
+        "id": 4,
+        "title": "Full Data Security"
+      },
+      {
+        "id": 5,
+        "title": "Unlimited Questions"
+      },
+      {
+        "id": 6,
+        "title": "6TB Bandwidth"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "magic",
+    "title": "PRO",
+    "currency": "$",
+    "price": "49.99",
+    "textButton": "PURCHASE NOW",
+    "featured": "false",
+    "features": [
+      {
+        "id": 1,
+        "title": "1 TB Ram"
+      },
+      {
+        "id": 2,
+        "title": "1 TB Disk"
+      },
+      {
+        "id": 3,
+        "title": "4 User"
+      },
+      {
+        "id": 4,
+        "title": "4TB Bandwidth"
+      }
+    ]
+  }
+]

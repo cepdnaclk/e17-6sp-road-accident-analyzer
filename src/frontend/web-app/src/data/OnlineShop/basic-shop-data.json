@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Short Sleeve Print T-Shirt",
+    "image": "shop/product-01.jpg",
+    "currency": "$",
+    "price": "11.61",
+    "oldprice": "18.48"
+  },
+  {
+    "id": 2,
+    "title": "Short Sleeve Print T-Shirt",
+    "image": "shop/product-02.jpg",
+    "currency": "$",
+    "price": "12.90",
+    "oldprice": "18.48"
+  },
+  {
+    "id": 3,
+    "title": "Short Sleeve Round Neck",
+    "image": "shop/product-03.jpg",
+    "currency": "$",
+    "price": "12.99",
+    "oldprice": "16.46"
+  },
+  {
+    "id": 4,
+    "title": "Long Sleeve Fox Print",
+    "image": "shop/product-04.jpg",
+    "currency": "$",
+    "price": "12.99",
+    "oldprice": "32.26"
+  },
+  {
+    "id": 5,
+    "title": "Navy Linen Short Sleeve",
+    "image": "shop/product-05.jpg",
+    "currency": "$",
+    "price": "30.00",
+    "oldprice": "50.95"
+  },
+  {
+    "id": 6,
+    "title": "Short Sleeve Print T-Shirt",
+    "image": "shop/product-06.jpg",
+    "currency": "$",
+    "price": "12.75",
+    "oldprice": "18.75"
+  },
+  {
+    "id": 7,
+    "title": "Charcoal Wool Jacket",
+    "image": "shop/product-07.jpg",
+    "currency": "$",
+    "price": "80.95",
+    "oldprice": "99.95"
+  },
+  {
+    "id": 8,
+    "title": "Sweater with Vented Design",
+    "image": "shop/product-08.jpg",
+    "currency": "$",
+    "price": "10.32",
+    "oldprice": "20.00"
+  },
+  {
+    "id": 9,
+    "title": "Short Sleeve Print T-Shirt",
+    "image": "shop/product-09.jpg",
+    "currency": "$",
+    "price": "12.65",
+    "oldprice": ""
+  },
+  {
+    "id": 10,
+    "title": "Short Sleeve Print T-Shirt",
+    "image": "shop/product-10.jpg",
+    "currency": "$",
+    "price": "16.00",
+    "oldprice": "18.00"
+  },
+  {
+    "id": 11,
+    "title": "Casual Shirt",
+    "image": "shop/product-11.jpg",
+    "currency": "$",
+    "price": "65.65",
+    "oldprice": ""
+  },
+  {
+    "id": 12,
+    "title": "Half Sleeve T-shirt",
+    "image": "shop/product-12.jpg",
+    "currency": "$",
+    "price": "19.00",
+    "oldprice": ""
+  }
+]

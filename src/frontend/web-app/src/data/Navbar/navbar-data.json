@@ -1,0 +1,75 @@
+[
+    {
+        "id": 2,
+        "title": "Pages",
+        "link": "/pages",
+        "megaMenu": false,
+        "subMenu": [
+            {
+                "id": 2.1,
+                "title": "Visualizations",
+                "link": "",
+                "subMenu": []
+            },
+            {
+                "id": 2.2,
+                "title": "Predictions",
+                "link": "/services",
+                "subMenu": [
+                    {
+                        "id": 2.21,
+                        "title": "Service Simple",
+                        "link": "/service-simple"
+                    },
+                    {
+                        "id": 2.22,
+                        "title": "Service Creative",
+                        "link": "/service-creative"
+                    }
+                ]
+            },
+            {
+                "id": 2.6,
+                "title": "Blogs",
+                "link": "/faqs"
+            },
+            {
+                "id": 2.3,
+                "title": "Contact Us",
+                "link": "/contact",
+                "subMenu": [
+                    {
+                        "id": 2.31,
+                        "title": "Contact Simple",
+                        "link": "/contact-simple"
+                    },
+                    {
+                        "id": 2.32,
+                        "title": "Contact Creative",
+                        "link": "/contact-creative"
+                    }
+                ]
+            },
+            {
+                "id": 2.6,
+                "title": "FAQs",
+                "link": "/faqs"
+            },
+            {
+                "id": 2.7,
+                "title": "Terms & Conditions",
+                "link": "/term-condition"
+            },
+            {
+                "id": 2.10,
+                "title": "Login",
+                "link": "/login"
+            },
+            {
+                "id": 2.10,
+                "title": "Suggestions",
+                "link": "/login"
+            }
+        ]
+    }
+]

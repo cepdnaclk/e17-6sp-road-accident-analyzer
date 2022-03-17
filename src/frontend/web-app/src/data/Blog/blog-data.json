@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "image": "post/howtouse.png",
+    "title": "How To Use Our System",
+    "published": "January 28, 2022",
+    "excerpt": "Curabitur quis faucibus odio, nec accumsan erat. Duis id ante convallis magna mattis pulvinar eu ut ipsum. Donec at leo id tortor mattis tempus...",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor lacus et tellus consectetur, vel pretium ante elementum. Aliquam elementum dignissim tellus a venenatis. Vestibulum vel sem pulvinar, scelerisque orci non, interdum magna. Sed vestibulum elit sed placerat semper. Quisque consectetur sollicitudin purus et tempus. Sed sit amet dapibus magna. Curabitur non odio magna. Fusce viverra elit eget orci ultricies dapibus.",
+    "block": "Donec dui ipsum, pulvinar sit amet mattis quis, dapibus eu libero. Curabitur lobortis, diam non semper placerat, ipsum felis pulvinar magna, quis dapibus enim velit vel lorem.",
+    "tags": [
+      "Design",
+      "Branding",
+      "Stationery",
+      "Development",
+      "Concept"
+    ],
+    "type": "image"
+  },
+  {
+    "id": 2,
+    "image": "post/FAQ.jpeg",
+    "slides": [
+      "post/post-02.jpg",
+      "post/post-08.jpg",
+      "post/post-09.jpg"
+    ],
+    "title": "FAQ",
+    "published": "May 9, 2015",
+    "excerpt": "Curabitur quis faucibus odio, nec accumsan erat. Duis id ante convallis magna mattis pulvinar eu ut ipsum. Donec at leo id tortor mattis tempus...",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor lacus et tellus consectetur, vel pretium ante elementum. Aliquam elementum dignissim tellus a venenatis. Vestibulum vel sem pulvinar, scelerisque orci non, interdum magna. Sed vestibulum elit sed placerat semper. Quisque consectetur sollicitudin purus et tempus. Sed sit amet dapibus magna. Curabitur non odio magna. Fusce viverra elit eget orci ultricies dapibus.",
+    "block": "Donec dui ipsum, pulvinar sit amet mattis quis, dapibus eu libero. Curabitur lobortis, diam non semper placerat, ipsum felis pulvinar magna, quis dapibus enim velit vel lorem.",
+    "tags": [
+      "Design",
+      "Branding",
+      "Stationery",
+      "Development",
+      "Concept"
+    ],
+    "type": "slider"
+  },
+  {
+    "id": 3,
+    "image": "post/pasyala.jpeg",
+    "title": "Pasyala Accident",
+    "link": "https://www.youtube.com/watch?v=7eul-Ij_Dsw",
+    "published": "November 18, 2016",
+    "excerpt": "Curabitur quis faucibus odio, nec accumsan erat. Duis id ante convallis magna mattis pulvinar eu ut ipsum. Donec at leo id tortor mattis tempus...",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor lacus et tellus consectetur, vel pretium ante elementum. Aliquam elementum dignissim tellus a venenatis. Vestibulum vel sem pulvinar, scelerisque orci non, interdum magna. Sed vestibulum elit sed placerat semper. Quisque consectetur sollicitudin purus et tempus. Sed sit amet dapibus magna. Curabitur non odio magna. Fusce viverra elit eget orci ultricies dapibus.",
+    "block": "Donec dui ipsum, pulvinar sit amet mattis quis, dapibus eu libero. Curabitur lobortis, diam non semper placerat, ipsum felis pulvinar magna, quis dapibus enim velit vel lorem.",
+    "tags": [
+      "Design",
+      "Branding",
+      "Stationery",
+      "Development",
+      "Concept"
+    ],
+    "type": "video"
+  },
+  {
+    "id": 4,
+    "image": "post/suggestions.jpg",
+    "title": "Send us your suggestions!",
+    "link": "https://www.youtube.com/watch?v=sU3FkzUKHXU",
+    "published": "November 18, 2016",
+    "excerpt": "Curabitur quis faucibus odio, nec accumsan erat. Duis id ante convallis magna mattis pulvinar eu ut ipsum. Donec at leo id tortor mattis tempus...",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor lacus et tellus consectetur, vel pretium ante elementum. Aliquam elementum dignissim tellus a venenatis. Vestibulum vel sem pulvinar, scelerisque orci non, interdum magna. Sed vestibulum elit sed placerat semper. Quisque consectetur sollicitudin purus et tempus. Sed sit amet dapibus magna. Curabitur non odio magna. Fusce viverra elit eget orci ultricies dapibus.",
+    "block": "Donec dui ipsum, pulvinar sit amet mattis quis, dapibus eu libero. Curabitur lobortis, diam non semper placerat, ipsum felis pulvinar magna, quis dapibus enim velit vel lorem.",
+    "tags": [
+      "Design",
+      "Branding",
+      "Stationery",
+      "Development",
+      "Concept"
+    ],
+    "type": "video"
+  }
+]

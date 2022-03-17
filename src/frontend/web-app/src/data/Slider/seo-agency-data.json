@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "SEO & MARKETING",
+    "tagline": "We Are Scoda Agency",
+    "image": "slides/home-bg-6.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "GET STARTED",
+        "link": "!#",
+        "type": "btn-color btn-circle"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "DIGITAL MARKETING",
+    "tagline": "Marketing Solutions That Work",
+    "image": "slides/home-bg-7.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "REGISTER NOW",
+        "link": "!#",
+        "type":"btn-color btn-circle"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Tyson Marks",
+    "role": "Engineer",
+    "image": "team/team-18.jpg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "twitter",
+        "link": "!#"
+      },
+      {
+        "id": 3,
+        "icon": "linkedin",
+        "link": "!#"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "James Smith",
+    "role": "Architech",
+    "image": "team/team-19.jpg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "twitter",
+        "link": "!#"
+      },
+      {
+        "id": 3,
+        "icon": "linkedin",
+        "link": "!#"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mary Smith",
+    "role": "Designer",
+    "image": "team/team-20.jpg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "twitter",
+        "link": "!#"
+      },
+      {
+        "id": 3,
+        "icon": "linkedin",
+        "link": "!#"
+      }
+    ]
+  }
+]

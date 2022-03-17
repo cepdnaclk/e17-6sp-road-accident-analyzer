@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "rocket-alt-1",
+    "title": "Strategy",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+  },
+  {
+    "id": 2,
+    "icon": "brain",
+    "title": "Creativity",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+  },
+  {
+    "id": 3,
+    "icon": "cubes",
+    "title": "Productivity",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "FLASH SALE OF 80%",
+    "tagline": "Spring - Summer 2020",
+    "image": "slides/home-bg-15.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "SHOP NOW",
+        "link": "!#",
+        "type": "btn-dark btn-circle"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "FLASH SALE OF 70%",
+    "tagline": "Spring - Winter 2019",
+    "image": "slides/home-bg-16.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "PURCHASE NOW",
+        "link": "!#",
+        "type": "btn-outline-white btn-circle"
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Home", "link": "home" },
+  { "id": 2, "title": "About us", "link": "about" },
+  { "id": 3, "title": "Our Chefs", "link": "chefs" },
+  { "id": 4, "title": "Our Gallery", "link": "gallery" },
+  { "id": 5, "title": "Book a Table", "link": "bookAtable" }
+]

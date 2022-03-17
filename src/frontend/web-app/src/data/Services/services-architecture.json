@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "icon": "building-alt",
+    "title": "Interior Expertise",
+    "text": "We combine expertise across disciplines, locations, and sectors. Mauris sit amet molestie dictum, ex velit viverra urna, eget euismod justo augue in eros."
+  },
+  {
+    "id": 2,
+    "icon": "home",
+    "title": "Free Consulting",
+    "text": "We combine expertise across disciplines, locations, and sectors. Mauris sit amet molestie dictum, ex velit viverra urna, eget euismod justo augue in eros."
+  },
+  {
+    "id": 3,
+    "icon": "wall",
+    "title": "Structure Design",
+    "text": "We combine expertise across disciplines, locations, and sectors. Mauris sit amet molestie dictum, ex velit viverra urna, eget euismod justo augue in eros."
+  },
+  {
+    "id": 4,
+    "icon": "road",
+    "title": "Planning",
+    "text": "We combine expertise across disciplines, locations, and sectors. Mauris sit amet molestie dictum, ex velit viverra urna, eget euismod justo augue in eros."
+  },
+  {
+    "id": 5,
+    "icon": "ssl-security",
+    "title": "100% Guarantee",
+    "text": "We combine expertise across disciplines, locations, and sectors. Mauris sit amet molestie dictum, ex velit viverra urna, eget euismod justo augue in eros."
+  },
+  {
+    "id": 6,
+    "icon": "tags",
+    "title": "Good Pricing",
+    "text": "We combine expertise across disciplines, locations, and sectors. Mauris sit amet molestie dictum, ex velit viverra urna, eget euismod justo augue in eros."
+  }
+]

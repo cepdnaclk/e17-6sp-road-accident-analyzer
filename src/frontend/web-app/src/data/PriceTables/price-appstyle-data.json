@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Basic",
+    "currency": "",
+    "price": "Free",
+    "textButton": "GET PLAN",
+    "features": [
+      {
+        "id": 1,
+        "title": "512 GB Ram"
+      },
+      {
+        "id": 2,
+        "title": "80 GB Disk"
+      },
+      {
+        "id": 3,
+        "title": "2 User"
+      },
+      {
+        "id": 4,
+        "title": "4TB Bandwidth"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pro",
+    "currency": "$",
+    "price": "19.99",
+    "textButton": "GET PLAN",
+    "features": [
+      {
+        "id": 1,
+        "title": "1 TB Ram"
+      },
+      {
+        "id": 2,
+        "title": "1 TB Disk"
+      },
+      {
+        "id": 3,
+        "title": "4 User"
+      },
+      {
+        "id": 4,
+        "title": "4TB Bandwidth"
+      }
+    ]
+  }
+]

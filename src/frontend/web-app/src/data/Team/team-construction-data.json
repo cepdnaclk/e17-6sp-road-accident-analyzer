@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "team/team-10.jpg",
+    "title": "Tyson Marks",
+    "role": "Engineer"
+  },
+  {
+    "id": 2,
+    "image": "team/team-11.jpg",
+    "title": "Daria Aliyeva",
+    "role": "Planer"
+  },
+  {
+    "id": 3,
+    "image": "team/team-12.jpg",
+    "title": "John Marconi",
+    "role": "Architect"
+  },
+  {
+    "id": 4,
+    "image": "team/team-13.jpg",
+    "title": "Chris Ogren",
+    "role": "Investor"
+  }
+]

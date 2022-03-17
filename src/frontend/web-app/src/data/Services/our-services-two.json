@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "test-tube-alt",
+    "title": "Creative Design",
+    "text": "Designing a good website that accommodates a lot of content is a tricky balancing act to pull off."
+  },
+  {
+    "id": 2,
+    "icon": "computer",
+    "title": "Web Developing",
+    "text": "We build mobile apps for the conference, integrating unique content and branding to create."
+  },
+  {
+    "id": 3,
+    "icon": "headphone-alt",
+    "title": "Marketing Support",
+    "text": "Google has made this important since 1998 when it launched. Content became, and still is king since websites."
+  }
+]
