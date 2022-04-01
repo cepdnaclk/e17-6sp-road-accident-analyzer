@@ -1,10 +1,11 @@
 from fastapi import FastAPI
 import motor.motor_asyncio
 from typing import List
+from dotenv import dotenv_values
+
 from EntrySchema import EntryModel, WeatherCondModel
 
-DB_PWD = "ClhiKrpQPXLJ3vFS"
-DB_URL = "mongodb+srv://pubudu:" + DB_PWD + \
+DB_URL = "mongodb+srv://pubudu:" + dotenv_values(".env")['DB_PWD'] + \
     "@cluster0.pb6tv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
 client = motor.motor_asyncio.AsyncIOMotorClient(
