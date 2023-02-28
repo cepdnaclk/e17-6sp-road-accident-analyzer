@@ -1,7 +1,7 @@
 # Road Accident Analysis for Community Awareness
 ## 6th Semester Project - 2022
 ### Department of CE, Faculty of Engineering, UoP
-### Project Page: [https://cepdnaclk.github.io/e17-co328-road-accident-analyzer](https://cepdnaclk.github.io/e17-co328-road-accident-analyzer)
+### Project Page: [https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer](https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer)
 
 ---
 
