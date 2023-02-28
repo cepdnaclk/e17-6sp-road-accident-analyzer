@@ -3,7 +3,7 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: e17-co328-road-accident-analyzer
+repository-name: e17-6sp-road-accident-analyzer
 title: Road Accident Analysis for Community Awareness
 ---
 
